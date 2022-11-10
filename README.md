@@ -4,22 +4,9 @@
 
 ## 涵盖领域
 
-<table>
-  <tr>
-    <td>产品</td>
-    <td>设计（UX、UI）</td>
-    <td>开发</td>
-    <td>测试</td>
-    <td>运维</td>
-  </tr>
-  <tr>
-    <td>运营</td>
-    <td>项目管理</td>
-    <td>职场</td>
-    <td>创业</td>
-    <td></td>
-  </tr>
-</table>
+产品 | 设计（UX、UI） | [开发](https://github.com/yincw/books_pdf#%E5%BC%80%E5%8F%91) | 测试 | [场景技术](https://github.com/yincw/books_pdf#%E5%9C%BA%E6%99%AF%E6%8A%80%E6%9C%AF)
+---|---|---|---|---
+运营 | 项目管理 | 职场 | 创业 | 运维
 
 ## 开发
 

@@ -84,18 +84,46 @@
 
 ### 网络协议
 
+- 网络协议
+  - 计算机网络（第7版）
+  - 计算机网络原理
+  - 网络是怎样连接的
 - TCP/IP
+  - 图解TCP/IP（第5版）
+  - TCP/IP网络编程
+  - TCP/IP 详解 卷1:协议
+  - TCP/IP 详解 卷2:实现
+  - TCP/IP 详解 卷3:TCP事务协议
 - HTTP(S)
  - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
  - [HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
+ - 图解HTTP
+ - HTTP权威指南
+ - HTTP/2 基础教程：让Web性能更上一层楼
+ - HTTPS权威指南：在服务器和Web应用上部署SSL/TLS和PKI
 - WebSocket
+  - Getting Started with HTML5 WebSocket Programming
+  - WebSocket Essentials —— Building Apps with HTML5 WebSockets
+  - Socket.IO Cookbook
+  - Socket.IO Real-time Web Application Development
 - WebRTC
   - [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)
+  - Getting Started with WebRTC
+  - WebRTC Integrator's Guide
+  - Learning WebRTC
+  - WebRTC Blueprints
+  - WebRTC Cookbook
 - LwIP
+  - 嵌入式网络那些事：LwIP 协议 深度剖析与实战演练
 - P2P
+  - P2P技术揭秘——P2P网络技术原理与典型系统开发
 - SDN
+  - SDN：Software Defined & Ken Gray
+  - RYU：SDN Framework
 - gRPC
+  - gRPC 官方文档中文版
 - MQTT
+  - MQTT 协议中文版
 
 ### 服务端开发
 
@@ -114,17 +142,17 @@
 - Golang
 - C++
 - C
-- Erlang
 - Rust
 - ABAP
+- Erlang
 - Lisp
 - Haskell
 - Scala
+- GraphQL
+  - [Road to GraphQL](https://www.roadtographql.com/)
 - Web 服务
 - Nginx
   - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
-- GraphQL
-  - [Road to GraphQL](https://www.roadtographql.com/)
 - Linux
   - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
   - [快乐的 Linux 命令行](http://billie66.github.io/TLCL/)
@@ -132,18 +160,50 @@
 
 ### 数据库
 
+- 数据库
+  - 数据库系统概论
+  - NoSQL 数据库入门
+  - NoSQL 数据库笔谈
 - MongoDB
   - [The Little MongoDB Book 中文版](https://github.com/ilivebox/the-little-mongodb-book/blob/master/zh-cn/mongodb.markdown)
+  - 深入学习 MongoDB
+  - MongoDB 权威指南
+  - MongoDB：The Definitive Guide
+  - MongoDB 实战
+  - 大数据存储 MongoDB 实战指南
+  - MongoDB 教程
+  - MongoDB 入门指南
 - Redis
   - [The Little Redis Book 中文版](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
   - [Redis 学习笔记](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
   - [Redis 3.0 中文版](http://doc.yonyoucloud.com/doc/wiki/project/redis-guide/index.html)
   - [Redis 命令参考](http://redisdoc.com/)
   - [Redis开发运维实践指南](http://shouce.jb51.net/redis-all-about/)
+  - Redis 入门指南
+  - Redis 开发与运维
+  - Redis 开发运维实践指南
+  - Redis 设计与实现
+  - Redis 深度历险：核心原理和应用实践
+  - Redis 实战
+  - Redis 实战（红丸出品）
+  - Redis Cookbook
 - MySQL
   - [21分钟 MySQL 入门教程](https://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+  - 高性能 MySQL（第3版）
+  - 深入浅出 MySQL
+  - MySQL 必知必会
+  - MySQL 技术内幕（第4版）
+  - MySQL 技术内幕 SQL编程
+  - MySQL 王者晋级之路
+  - MySQL 高可用方案探究
+  - Jump Start MySQL
 - SQLite
-
+  - SQLite 权威指南（第二版）
+- SQL
+  - SQL 反模式
+  - SQL 基础教程（第2版）
+  - SQL 学习指南（第2版）
+  - SQL 注入攻击与防御
 ### 正则表达式
 
 - [正则表达式](https://yincw.github.io/regexp/)

@@ -148,11 +148,28 @@
 - C++
 - C
 - Rust
+  - Programming Rust
+  - Experience Report：Develop the Servo Web Browser Engine using Rust
 - ABAP
+  - SAP 程序设计 黄佳
 - Erlang
+  - Erlang 程序设计
+  - Erlang Programming
 - Lisp
+  - 实用 Common Lisp 编程
+  - ANSI Common List 中文翻译版
+  - Lisp 入门教程
+  - On Lisp 中文版
+  - Common List：A Gentle Introduction to Symbolic Computation
+  - Common List Second Edition
+  - GNU Emacs Lisp 编程入门
+  - GNU Emacs Lisp Reference Manual
+  - Land of Lisp
+  - Paradigms of Artificial Intelligence Programming：Case Studies in Common Lisp
 - Haskell
+  - Haskell 趣学指南
 - Scala
+  - Scala 编程
 - GraphQL
   - [Road to GraphQL](https://www.roadtographql.com/)
 - Web 服务
@@ -466,14 +483,15 @@
 - Subversion
   - [Subversion 与版本控制](https://svnbook.red-bean.com/)
 
-### 云计算 Cloud Computing
+## 场景技术
+
+> 云计算 Cloud Computing
 
 - 虚拟化与云计算
 - 云计算与分布式系统——从并行处理到物联网
 - 云计算的关键技术与应用实例
 - 关于云计算可用性的定性与定量研究
 
-### 场景技术
 
 > 物联网 IoT，Internet of Things
 

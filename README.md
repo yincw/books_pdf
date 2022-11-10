@@ -4,17 +4,22 @@
 
 ## 涵盖领域
 
-涵盖以下领域相关书籍
-
-- 产品
-- 设计（UX、UI）
-- 开发
-- 测试
-- 运维
-- 运营
-- 项目管理
-- 创业
-
+<table>
+  <tr>
+    <td>产品</td>
+    <td>设计（UX、UI）</td>
+    <td>开发</td>
+    <td>测试</td>
+    <td>运维</td>
+  </tr>
+  <tr>
+    <td>运营</td>
+    <td>项目管理</td>
+    <td>职场</td>
+    <td>创业</td>
+    <td></td>
+  </tr>
+</table>
 
 ## 开发
 
@@ -84,18 +89,46 @@
 
 ### 网络协议
 
+- 网络协议
+  - 计算机网络（第7版）
+  - 计算机网络原理
+  - 网络是怎样连接的
 - TCP/IP
+  - 图解TCP/IP（第5版）
+  - TCP/IP网络编程
+  - TCP/IP 详解 卷1:协议
+  - TCP/IP 详解 卷2:实现
+  - TCP/IP 详解 卷3:TCP事务协议
 - HTTP(S)
  - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
  - [HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
+ - 图解HTTP
+ - HTTP权威指南
+ - HTTP/2 基础教程：让Web性能更上一层楼
+ - HTTPS权威指南：在服务器和Web应用上部署SSL/TLS和PKI
 - WebSocket
+  - Getting Started with HTML5 WebSocket Programming
+  - WebSocket Essentials —— Building Apps with HTML5 WebSockets
+  - Socket.IO Cookbook
+  - Socket.IO Real-time Web Application Development
 - WebRTC
   - [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)
+  - Getting Started with WebRTC
+  - WebRTC Integrator's Guide
+  - Learning WebRTC
+  - WebRTC Blueprints
+  - WebRTC Cookbook
 - LwIP
+  - 嵌入式网络那些事：LwIP 协议 深度剖析与实战演练
 - P2P
+  - P2P技术揭秘——P2P网络技术原理与典型系统开发
 - SDN
+  - SDN：Software Defined & Ken Gray
+  - RYU：SDN Framework
 - gRPC
+  - gRPC 官方文档中文版
 - MQTT
+  - MQTT 协议中文版
 
 ### 服务端开发
 
@@ -114,17 +147,36 @@
 - Golang
 - C++
 - C
-- Erlang
 - Rust
+  - Programming Rust
+  - Experience Report：Develop the Servo Web Browser Engine using Rust
 - ABAP
+  - SAP 程序设计 黄佳
+- Erlang
+  - Erlang 程序设计
+  - Erlang Programming
 - Lisp
+  - 实用 Common Lisp 编程
+  - ANSI Common List 中文翻译版
+  - Lisp 入门教程
+  - On Lisp 中文版
+  - Common List：A Gentle Introduction to Symbolic Computation
+  - Common List Second Edition
+  - GNU Emacs Lisp 编程入门
+  - GNU Emacs Lisp Reference Manual
+  - Land of Lisp
+  - Paradigms of Artificial Intelligence Programming：Case Studies in Common Lisp
 - Haskell
+  - Haskell 趣学指南
 - Scala
-- Web 服务
-- Nginx
-  - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+  - Scala 编程
 - GraphQL
   - [Road to GraphQL](https://www.roadtographql.com/)
+- Web 服务
+  - Web服务——原理和技术
+  - RESTful Web Services
+- Nginx
+  - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 - Linux
   - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
   - [快乐的 Linux 命令行](http://billie66.github.io/TLCL/)
@@ -132,18 +184,50 @@
 
 ### 数据库
 
+- 数据库
+  - 数据库系统概论
+  - NoSQL 数据库入门
+  - NoSQL 数据库笔谈
 - MongoDB
   - [The Little MongoDB Book 中文版](https://github.com/ilivebox/the-little-mongodb-book/blob/master/zh-cn/mongodb.markdown)
+  - 深入学习 MongoDB
+  - MongoDB 权威指南
+  - MongoDB：The Definitive Guide
+  - MongoDB 实战
+  - 大数据存储 MongoDB 实战指南
+  - MongoDB 教程
+  - MongoDB 入门指南
 - Redis
   - [The Little Redis Book 中文版](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
   - [Redis 学习笔记](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
   - [Redis 3.0 中文版](http://doc.yonyoucloud.com/doc/wiki/project/redis-guide/index.html)
   - [Redis 命令参考](http://redisdoc.com/)
   - [Redis开发运维实践指南](http://shouce.jb51.net/redis-all-about/)
+  - Redis 入门指南
+  - Redis 开发与运维
+  - Redis 开发运维实践指南
+  - Redis 设计与实现
+  - Redis 深度历险：核心原理和应用实践
+  - Redis 实战
+  - Redis 实战（红丸出品）
+  - Redis Cookbook
 - MySQL
   - [21分钟 MySQL 入门教程](https://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+  - 高性能 MySQL（第3版）
+  - 深入浅出 MySQL
+  - MySQL 必知必会
+  - MySQL 技术内幕（第4版）
+  - MySQL 技术内幕 SQL编程
+  - MySQL 王者晋级之路
+  - MySQL 高可用方案探究
+  - Jump Start MySQL
 - SQLite
-
+  - SQLite 权威指南（第二版）
+- SQL
+  - SQL 反模式
+  - SQL 基础教程（第2版）
+  - SQL 学习指南（第2版）
+  - SQL 注入攻击与防御
 ### 正则表达式
 
 - [正则表达式](https://yincw.github.io/regexp/)
@@ -401,14 +485,15 @@
 - Subversion
   - [Subversion 与版本控制](https://svnbook.red-bean.com/)
 
-### 云计算 Cloud Computing
+## 场景技术
+
+> 云计算 Cloud Computing
 
 - 虚拟化与云计算
 - 云计算与分布式系统——从并行处理到物联网
 - 云计算的关键技术与应用实例
 - 关于云计算可用性的定性与定量研究
 
-### 场景技术
 
 > 物联网 IoT，Internet of Things
 

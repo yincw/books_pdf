@@ -173,6 +173,8 @@
 - GraphQL
   - [Road to GraphQL](https://www.roadtographql.com/)
 - Web 服务
+  - Web服务——原理和技术
+  - RESTful Web Services
 - Nginx
   - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 - Linux

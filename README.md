@@ -1,24 +1,83 @@
 # books_pdf
 
+✍ 持续更新中...
+
+## 涵盖领域
+
+涵盖以下领域相关书籍
+
+- 产品
+- 设计（UX、UI）
+- 开发
+- 测试
+- 运维
+- 运营
+- 项目管理
+- 创业
+
+
 ## 开发
 
 ### CSS & HTML
 
 - CSS
+  - [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
+  - [CSS Click Chart](https://css3clickchart.com/)
+  - [学习CSS布局](https://zh.learnlayout.com/)
+  - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
 - HTML
+  - [DIVE INTO HTML5](http://diveinto.html5doctor.com/)
+  - [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 - SVG
 
 ### JavaScript
 
 - JavaScript
+  - [JavaScript 指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
+  - [ES6 入门教程](https://es6.ruanyifeng.com/)
+  - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+  - [ECMAScript 6](http://es6-features.org)
+  - [Learn ES2015](https://babeljs.io/docs/en/learn.html)
+  - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
+  - [JavaScript for impatient programmers (ES2022 edition)](https://exploringjs.com/impatient-js/index.html)
+  - [Exploring ES2018 and ES2019](https://exploringjs.com/es2018-es2019/index.html)
+  - [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017.html)
+  - [Exploring ES6](https://exploringjs.com/es6.html)
+  - [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html)
+  - [Speaking JavaScript](http://speakingjs.com/)
+  - [JavaScript 二十年](https://cn.history.js.org/)
+  - [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
+  - [现代 JavaScript 教程](https://zh.javascript.info/)
+  - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
+  - [JavaScript 教程](https://wangdoc.com/javascript/)
+  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+  - [深入理解JavaScript系列](https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+  - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+  - [JavaScript For Cats](http://jsforcats.com/)
+  - [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/)
+  - [Javascript for Beginners](https://www.homeandlearn.co.uk/javascript/javascript.html)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - TypeScript
-- jQuery
-- Backbone
-- AngularJS/Angular
+  - [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+  - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+  - [TypeScript 入门教程](http://ts.xcatliu.com/)
+  - [Tackling TypeScript](https://exploringjs.com/tackling-ts/)
+- Babel
+  - [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 - React
+  - [React API 参考手册](https://vikexia.com/JavaScript/Framework?type=React)
+  - [从零开始学 ReactJS（ReactJS 101）](https://github.com/kdchang/reactjs101)
+  - [30 Days Of React](https://www.newline.co/fullstack-react/30-days-of-react/)
+  - [React Bits](https://hateonion.github.io/react-bits-CN/)
 - React Native
 - Vue
+  - [逐行剖析 Vue.js 源码](https://nlrx-wjc.github.io/Learn-Vue-Source-Code/)
 - Flutter
+- AngularJS/Angular
+- Backbone
+  - [Backbone.js入门教程第二版](https://www.kancloud.cn/kancloud/backbonejs-learning-note/49378)
+- jQuery
+  - [jQuery 基本原理](https://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/)
 - 微信小程序
 - 微信公众平台
 - 微信开放平台
@@ -27,8 +86,11 @@
 
 - TCP/IP
 - HTTP(S)
+ - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+ - [HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
 - WebSocket
 - WebRTC
+  - [给好奇者的 WebRTC](https://webrtcforthecurious.com/zh/)
 - LwIP
 - P2P
 - SDN
@@ -38,6 +100,14 @@
 ### 服务端开发
 
 - JavaScript（Node.js）
+  - [Node入门](https://www.nodebeginner.org/index-zh-cn.html)
+  - [什么是Node？](http://jayli.github.io/whatisnode/index.html)
+  - [如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/)
+  - [七天学会NodeJS](https://nqdeng.github.io/7-days-nodejs/)
+  - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+  - [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+  - [node-debug tutorial](http://i5ting.github.io/node-debug-tutorial/)
+  - [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 - Java
 - PHP
 - Python
@@ -52,17 +122,33 @@
 - Scala
 - Web 服务
 - Nginx
+  - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+- GraphQL
+  - [Road to GraphQL](https://www.roadtographql.com/)
+- Linux
+  - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
+  - [快乐的 Linux 命令行](http://billie66.github.io/TLCL/)
+  - [理解Linux进程](https://tobegit3hub1.gitbooks.io/understanding-linux-processes/content/)
 
 ### 数据库
 
 - MongoDB
+  - [The Little MongoDB Book 中文版](https://github.com/ilivebox/the-little-mongodb-book/blob/master/zh-cn/mongodb.markdown)
 - Redis
+  - [The Little Redis Book 中文版](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+  - [Redis 学习笔记](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
+  - [Redis 3.0 中文版](http://doc.yonyoucloud.com/doc/wiki/project/redis-guide/index.html)
+  - [Redis 命令参考](http://redisdoc.com/)
+  - [Redis开发运维实践指南](http://shouce.jb51.net/redis-all-about/)
 - MySQL
+  - [21分钟 MySQL 入门教程](https://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 - SQLite
 
 ### 正则表达式
 
-- 
+- [正则表达式](https://yincw.github.io/regexp/)
+- [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
+- [揭开正则表达式的神秘面纱](http://www.regexlab.com/zh/regref.htm)
 
 
 ### 编程范式
@@ -85,7 +171,7 @@
 - 数据结构与算法：JavaScript语言描述
 - 学习JavaScript数据结构与算法
 - 学习JavaScript数据结构与算法（第2版）
-- 学习JavaScript数据结构与算法（第3版）:用JavaScript学习常用的数据结构与算法，高效解决编程常见问题。
+- 学习JavaScript数据结构与算法（第3版）
 - 数据结构算法与应用：C++语言描述
 - 数据结构与算法：Python 语言描述 裘宗燕 北京大学
 - 数据结构与算法 陈斌 北京大学地空学院
@@ -97,6 +183,7 @@
 
 > 数据结构
 
+- [JavaScript 数据解构与API参考手册](https://vikexia.com/JavaScript/Data_Structures?type=Object)
 - 数据结构（C++语言版）（第3版） 邓俊辉
 - 数据结构 邓俊辉 清华大学
 - 数据结构（C语言版）严蔚敏 清华大学
@@ -107,6 +194,7 @@
 
 > 算法
 
+- [labuladong 的算法小抄](https://labuladong.github.io/algo/)
 - 算法（第4版）
 - 算法导论（原书第2版）
 - 算法导论（原书第3版）
@@ -146,8 +234,8 @@
 - 微服务
   - 微服务设计
   - Building Microservices
+  - [使用 Spring Cloud 与 Docker 实战微服务](https://eacdy.gitbooks.io/spring-cloud-book/content/)
   - Spring Cloud 微服务实战
-  - 使用 Spring Cloud 与 Docker 实战微服务
   - 深入理解 Spring Cloud 与微服务构建
 - 分布式
   - 分布式数据库系统原理（第3版）
@@ -169,7 +257,9 @@
   - 分布式系统工程实践
   - 走向分布式
 - 容器技术
-  - Docker——从入门到实践
+  - [Docker——从入门到实践](https://yeasy.gitbook.io/docker_practice/)
+  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn)
+  - [The Docker Handbook](https://docker-handbook.farhan.dev/)
   - 第一本 Docker 书
   - Docker 技术入门与实践
   - Docker进阶与实践
@@ -212,6 +302,7 @@
 
 ### Web 安全
 
+- [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 - Web 安全开发指南
 - Web前端黑客技术揭秘
 - 白帽子讲Web安全
@@ -221,19 +312,29 @@
 - 黑客反汇编揭秘
 - 灰帽黑客
 - 代码审计：企业级Web代码安全架构
+
 ### 版本控制
 
 - Git
+  - [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+  - [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+  - [学习 Git 分支](https://learngitbranching.js.org/?locale=zh_CN)
+  - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+  - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+  - [Git 参考手册](http://gitref.justjavac.com/)
+  - [Git Cheat Sheet 中文版](https://blog.igevin.info/posts/git-cheat-sheet/)
+  - [Pro Git](https://git-scm.com/book/zh/v2)
+  - [Pro Git v2](https://www.progit.cn/#_pro_git)
+  - [Git 权威指南](https://www.worldhello.net/gotgit/)
   - 版本控制之道——使用Git
-  - Git 权威指南
-  - Pro Git
   - Git for Teams
   - 看日记学 Git
-  - Git 简明指南
 - GitHub
+  - [GitHub 漫游指南](https://github.phodal.com/#/chapter/Github%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97)
   - GitHub 入门与实践
   - GitHub 开源贡献指南
-
+- Subversion
+  - [Subversion 与版本控制](https://svnbook.red-bean.com/)
 
 ### 云计算 Cloud Computing
 
@@ -244,11 +345,12 @@
 
 ### 场景技术
 
-> 物联网
+> 物联网 IoT，Internet of Things
 
-- 一步步搭建物联网系统
+- [一步步搭建物联网系统](http://phodal.github.io/designiot/)
 - 图解物联网
 - ArcGIS
+- WebGIS
 
 
 > 大数据 Big Data
@@ -257,9 +359,10 @@
 - Hadoop
 - HBase
 - Spark
+  - [Spark 编程指南](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
 
-> 音视频
+> 音视频 Audio and Video
 
 - Web Audio
 
@@ -296,13 +399,12 @@
 - DApp
 
 
-> 元宇宙
+> 元宇宙 Metaverse
 
 - 计算机图形学
 - OpenGL
+- Canvas
 - WebGL
-<<<<<<< HEAD
   - Three.js
-=======
-  - Three.js
->>>>>>> 8fa5ddbff770e640c558fb75456899a669788613
+- WebGPU
+- WebXR（WebAR/WebVR）
